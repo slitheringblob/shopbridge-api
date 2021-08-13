@@ -1,5 +1,5 @@
 # shopbridge-api
- Product Inventory API for ShopBridge made using Flask, SQLAlchemy and Marshmallow
+ Product Inventory API for ShopBridge made using Flask, SQLite, SQLAlchemy and Marshmallow
  
 ## Endpoints:
 
