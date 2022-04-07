@@ -1,5 +1,5 @@
 # shopbridge-api
- Product Inventory API for ShopBridge made using Flask, SQLite, SQLAlchemy and Marshmallow
+ Exmaple Product Inventory API for ShopBridge made using Flask, SQLite, SQLAlchemy and Marshmallow. Basic GET/POST/PUT/DELETE endpoints showing the integration between Flask, SQLite, SQLAlchemy and Marshmallow.
  
 ## Endpoints:
 
